@@ -95,17 +95,17 @@ div.color_8 {
   }
  @keyframes Animation_5 {
   from {height: 0px; background-color: #96CEB4;}
-  to {height: 25vh; background-color:#F4F4F4}
+  to {height: 25vh; background-color:#FEECE9}
   }
 @keyframes Animation_6 {
   from {height: 0px;}
-  to {height: 25vh; background-color:#FF7315}
+  to {height: 25vh; background-color:#CCD1E4}
   }
 @keyframes Animation_7 {
   from {height: 0px;}
-  to {height: 25vh; background-color:#3A3535}
+  to {height: 25vh; background-color:#FE7E6D}
   }
 @keyframes Animation_8 {
   from {height:0px;}
-  to {height: 24vh; background-color:#232020}
+  to {height: 24vh; background-color:#2F3A8F}
   }
