@@ -1,6 +1,5 @@
 
 div.color_1 {
-  width: 100vh;
   height: 0vh;
   background-color: #96CEB4;
   animation-name: Animation_1;
@@ -11,7 +10,6 @@ div.color_1 {
  
 }
 div.color_2 {
-  width: 100vh;
   height: 0vh;
   background-color: #FFEEAD;
   animation-name: Animation_2;
@@ -22,7 +20,6 @@ div.color_2 {
  
   }
 div.color_3 {
-  width: 100vh;
   height: 0vh;
   background-color: #D9534F;
   animation-name: Animation_3;
@@ -33,7 +30,6 @@ div.color_3 {
   
 }
 div.color_4 {
-  width: 100vh;
   height: 0vh;
   background-color: #FFAD60;
   animation-name: Animation_4;
@@ -43,7 +39,6 @@ div.color_4 {
   animation-timing-function: linear;
   }
  div.color_5 {
-  width: 100vh;
   height: 25vh;
   background-color: #041C32;
   animation-name: Animation_5;
@@ -53,7 +48,6 @@ div.color_4 {
   animation-timing-function: linear;
 }
 div.color_6 {
-  width: 100vh;
   height: 25vh;
   background-color: #04293A;
   animation-name: Animation_6;
@@ -63,7 +57,6 @@ div.color_6 {
   animation-timing-function: linear;
   }
 div.color_7 {
-  width: 100vh;
   height: 25vh;
   background-color: #064663;
   animation-name: Animation_7;
@@ -73,7 +66,6 @@ div.color_7 {
   animation-timing-function: linear;
 }
 div.color_8 {
-  width: 100vh;
   height: 25vh;
   background-color: #ECB365;
   animation-name: Animation_8;
