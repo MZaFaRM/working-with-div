@@ -37,6 +37,7 @@ div.color_4 {
   animation-iteration-count: infinite;
   animation-direction: alternate;
   animation-timing-function: linear;
+  overflow:hidden;
   }
  div.color_5 {
   height: 25vh;
@@ -73,36 +74,38 @@ div.color_8 {
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
   animation-timing-function: linear;
+  overflow:hidden;
   }
+ 
 @keyframes Animation_1 {
   from {height: 0px; background-color: #96CEB4;}
-  to {height: 50vh; background-color:#F5F5F5}
+  to {height: 24vh; background-color:#F5F5F5}
   }
 @keyframes Animation_2 {
   from {height: 0px;}
-  to {height: 50vh; background-color:#F05454}
+  to {height: 24vh; background-color:#F05454}
   }
 @keyframes Animation_3 {
   from {height: 0px;}
-  to {height: 50vh; background-color:#30475E}
+  to {height: 24vh; background-color:#30475E}
   }
 @keyframes Animation_4 {
   from {height:0px;}
-  to {height: 50vh; background-color:#121212}
+  to {height: 24vh; background-color:#121212}
   }
  @keyframes Animation_5 {
   from {height: 0px; background-color: #96CEB4;}
-  to {height: 50vh; background-color:#F9D371}
+  to {height: 24vh; background-color:#F9D371}
   }
 @keyframes Animation_6 {
   from {height: 0px;}
-  to {height: 50vh; background-color:#F47340}
+  to {height: 24vh; background-color:#F47340}
   }
 @keyframes Animation_7 {
   from {height: 0px;}
-  to {height: 50vh; background-color:#EF2F88}
+  to {height: 24vh; background-color:#EF2F88}
   }
 @keyframes Animation_8 {
   from {height:0px;}
-  to {height: 50vh; background-color:#8843F2}
+  to {height: 24vh; background-color:#8843F2}
   }
