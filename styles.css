@@ -1,0 +1,116 @@
+
+div.color_1 {
+  width: 100vh;
+  height: 0vh;
+  background-color: #96CEB4;
+  animation-name: Animation_1;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+ 
+}
+div.color_2 {
+  width: 100vh;
+  height: 0vh;
+  background-color: #FFEEAD;
+  animation-name: Animation_2;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+ 
+  }
+div.color_3 {
+  width: 100vh;
+  height: 0vh;
+  background-color: #D9534F;
+  animation-name: Animation_3;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+  
+}
+div.color_4 {
+  width: 100vh;
+  height: 0vh;
+  background-color: #FFAD60;
+  animation-name: Animation_4;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: linear;
+  }
+ div.color_5 {
+  width: 100vh;
+  height: 25vh;
+  background-color: #041C32;
+  animation-name: Animation_5;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+}
+div.color_6 {
+  width: 100vh;
+  height: 25vh;
+  background-color: #04293A;
+  animation-name: Animation_6;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+  }
+div.color_7 {
+  width: 100vh;
+  height: 25vh;
+  background-color: #064663;
+  animation-name: Animation_7;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+}
+div.color_8 {
+  width: 100vh;
+  height: 25vh;
+  background-color: #ECB365;
+  animation-name: Animation_8;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+  animation-timing-function: linear;
+  }
+@keyframes Animation_1 {
+  from {height: 0px; background-color: #96CEB4;}
+  to {height: 25vh; background-color:#F5F5F5}
+  }
+@keyframes Animation_2 {
+  from {height: 0px;}
+  to {height: 25vh; background-color:#F05454}
+  }
+@keyframes Animation_3 {
+  from {height: 0px;}
+  to {height: 25vh; background-color:#30475E}
+  }
+@keyframes Animation_4 {
+  from {height:0px;}
+  to {height: 25vh; background-color:#121212}
+  }
+ @keyframes Animation_5 {
+  from {height: 0px; background-color: #96CEB4;}
+  to {height: 25vh; background-color:#F9D371}
+  }
+@keyframes Animation_6 {
+  from {height: 0px;}
+  to {height: 25vh; background-color:#F47340}
+  }
+@keyframes Animation_7 {
+  from {height: 0px;}
+  to {height: 25vh; background-color:#EF2F88}
+  }
+@keyframes Animation_8 {
+  from {height:0px;}
+  to {height: 25vh; background-color:#8843F2}
+  }
