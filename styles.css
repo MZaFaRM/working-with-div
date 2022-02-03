@@ -41,7 +41,7 @@ div.color_4 {
   }
  div.color_5 {
   height: 25vh;
-  background-color: #041C32;
+  background-color: #EA5C2B;
   animation-name: Animation_5;
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -50,7 +50,7 @@ div.color_4 {
 }
 div.color_6 {
   height: 25vh;
-  background-color: #04293A;
+  background-color: #FF7F3F;
   animation-name: Animation_6;
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -59,7 +59,7 @@ div.color_6 {
   }
 div.color_7 {
   height: 25vh;
-  background-color: #064663;
+  background-color: #F6D860;
   animation-name: Animation_7;
   animation-duration: 5s;
   animation-iteration-count: infinite;
@@ -68,7 +68,7 @@ div.color_7 {
 }
 div.color_8 {
   height: 25vh;
-  background-color: #ECB365;
+  background-color: #95CD41;
   animation-name: Animation_8;
   animation-duration: 5s;
   animation-iteration-count: infinite;
